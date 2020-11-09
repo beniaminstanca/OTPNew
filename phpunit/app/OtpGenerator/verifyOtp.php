@@ -14,7 +14,7 @@
         <div class="d-flex justify-content-center h-100">
             <div class="card">
                 <div class="card-header">
-                    <h3>Generate OTP</h3>
+                    <h3>Check OTP</h3>
                 </div>
                 <div class="card-body">
                     <form action="verifyOtpCookie.php" method="POST" autocomplete="off">
